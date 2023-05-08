@@ -1,7 +1,7 @@
 # LevLog
 轻量级log日志系统，支持悬浮窗展示，log日志级别颜色区分
-![示例图片](step1.png){ width=50% }
-![示例图片](step2.png){ width=50% }
+![示例图片](step1.png width="200" height="200")
+![示例图片](step2.png width="200" height="200")
 
 ####  根目录下build.gradle配置:
 Add it in your root build.gradle at the end of repositories:
