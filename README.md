@@ -6,7 +6,7 @@
 <img src="step1.png" width="480" height="720"/><br/>
 
 ##  2.打开Log日志悬浮窗，按钮文案变为：CloseLevLog
-##    log日志不同级别信息根据颜色进行区分，可在悬浮窗滚动查看
+##    Log日志不同级别信息根据颜色进行区分，可在悬浮窗滚动查看
 <img src="step2.png" width="480" height="720"/><br/>
 
 
